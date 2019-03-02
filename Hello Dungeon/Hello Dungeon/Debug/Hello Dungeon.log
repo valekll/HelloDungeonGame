@@ -1,0 +1,4 @@
+﻿Renderer.obj : error LNK2019: unresolved external symbol _vkCreateInstance@12 referenced in function "private: void __thiscall Renderer::_InitInstance(void)" (?_InitInstance@Renderer@@AAEXXZ)
+Renderer.obj : error LNK2019: unresolved external symbol _vkDestroyInstance@8 referenced in function "private: void __thiscall Renderer::_DeInitInstance(void)" (?_DeInitInstance@Renderer@@AAEXXZ)
+D:\Installs\Vulkan\1.1.97.0\Lib\vulkan-1.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Progs\HelloDungeon\Hello Dungeon\Debug\Hello Dungeon.exe : fatal error LNK1120: 2 unresolved externals
